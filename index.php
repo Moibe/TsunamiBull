@@ -2,7 +2,7 @@
 <html>
    <head>
       <meta charset="UTF-8" />
-      <title>Tsunami Bull Crypto Index</title>
+      <title>Tsunami Bull Index</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="25cde44.css" />
       <link rel="icon" type="image/x-icon" href="/tsunamibull.png" />
